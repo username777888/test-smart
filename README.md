@@ -1,0 +1,2 @@
+# test-smart
+smart
